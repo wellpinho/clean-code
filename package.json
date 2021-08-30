@@ -1,0 +1,23 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "code quality with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellpinho/clean-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wellpinho/clean-code/issues"
+  },
+  "homepage": "https://github.com/wellpinho/clean-code#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
